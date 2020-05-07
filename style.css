@@ -1,0 +1,135 @@
+body{
+    background-image: url(images/home-office-599475_1920.jpg);
+    
+  
+    
+}
+
+.r{
+    width: 200px;
+    height: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 42px;
+    background-color: black;
+    background-size: 20px;
+    width: 280px;
+    text-align: center;
+    margin: 0 auto;
+}
+.HHH
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 40px;
+    background-color: black;
+    background-size: 20px;
+    width: 280px;
+    text-align: center;
+    margin: 0 auto;
+}
+.hh{
+    color : white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 42px;
+    background-color: black;
+    width: 300px;
+}
+
+
+.se{
+    font-size: 30px;
+    color:black; 
+    text-decoration: black;
+}
+.cs{
+    text-decoration: none;
+   
+}
+.s{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.ce1{
+    border: 2px solid black;
+border-radius: 20px;
+}
+.ce2{
+    border: 2px solid black;
+border-radius: 20px;
+}
+.ce3{
+    border: 2px solid black;
+border-radius: 20px;
+}
+.se1{
+    font-size: 30px;
+color:black; 
+text-decoration: black;
+}
+.se2{
+    font-size: 30px;
+color:black; 
+text-decoration: black;
+}
+.se3{
+    font-size: 30px;
+color:black; 
+text-decoration: black;
+}
+@media only screen and (max-width: 600px){
+    .ce1{
+        border: 2px solid black;
+    border-radius: 20px;
+    position: absolute;
+    top:650px;
+    left: 90px;
+    }
+    .ce2{
+        border: 2px solid black;
+    border-radius: 20px;
+    position: absolute;
+    top:850px;
+    left: 90px;
+    }
+    .ce3{
+        border: 2px solid black;
+    border-radius: 20px;
+    position: absolute;
+    top:1050px;
+    left: 90px;
+    }
+    .se1{
+        font-size: 30px;
+    color:black; 
+    text-decoration: black;
+    position: absolute;
+    top:805px;
+    left: 80px;
+    }
+    .se2{
+        font-size: 30px;
+    color:black; 
+    text-decoration: black;
+    position: absolute;
+    top:1005px;
+    left: 80px;
+    }
+    .se3{
+        font-size: 30px;
+    color:black; 
+    text-decoration: black;
+    position: absolute;
+    top:1205px;
+    left: 80px;
+    }
+    body{
+        height: 1260px;
+    }
+}

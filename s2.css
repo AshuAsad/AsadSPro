@@ -1,0 +1,23 @@
+.ce{
+    display: block;
+    margin-left: 520px;
+    margin-right: 500px;
+}
+h1{
+    
+    text-align: center;
+    color: #29B515;
+    font-size: 40px;
+}
+
+h2{
+
+    text-align: center;
+    color: #6315B5;
+}
+p{
+    
+    text-align: center;
+    font-size: 30px;
+
+}

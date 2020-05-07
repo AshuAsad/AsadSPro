@@ -1,0 +1,31 @@
+body{
+    background-image: url(images/e1kjWf.jpg);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+dt{
+    color:#0f0a4a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.fb{
+    font-size: 22px;
+    color:#0f0a4a; 
+    text-decoration: black;
+}
+.wh{
+    font-size: 22px;
+    color:#28c213; 
+    text-decoration: black;
+}
+.in{
+    color :#E1306C;
+    font-size: 22px;
+    text-decoration: black;
+}
